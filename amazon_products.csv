@@ -1,51 +1,101 @@
 Book Name,Author,Rating,Customers_Rated,Price
-General Knowledge,Dr. Binay Karna,4.4 out of 5 stars,"16,239",₹172.00
-Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth,Mahatma Gandhi,4.5 out of 5 stars,"4,894",₹156.00
-Animals Tales From Panchtantra: Timeless Stories for Children From Ancient India,Wonder House Books,4.6 out of 5 stars,"2,053",₹159.00
-Brijbhoomi Books And Handicrafts® Bhagavad Gita: Yatharoop,Brijbhoomi Books And Handicrafts,4.7 out of 5 stars,"10,129",₹185.00
-"Karma: A Yogi's Guide to Crafting Your Destiny NEW YORK TIMES, USA TODAY, and PUBLISHERS WEEKLY BESTSELLER , must-read…",Sadhguru,4.7 out of 5 stars,"5,512",₹239.00
-101 Panchatantra Stories for Children: Colourful Illustrated Stories,Om Books Editorial Team,4.5 out of 5 stars,"4,240",₹193.00
-"Writing Practice Boxset: Pack of 4 Books (Writing Fun: Write and Practice Capital Letters, Small Letters, Patterns and…",Wonder House Books,4.3 out of 5 stars,"6,177",₹159.00
-Oswaal CBSE Sample Question Paper Class 10 Science Book (For Term I Nov-Dec 2021 Exam),Oswaal Editorial Board,4.4 out of 5 stars,47,₹158.00
-My Little Library (Set of 10 Books),Figbo Books,4.5 out of 5 stars,593,₹399.00
-Oswaal CBSE Sample Question Paper Class 10 Mathematics Standard Book (For Term I Nov-Dec 2021 Exam),Oswaal Editorial Board,4.5 out of 5 stars,61,₹139.00
-CBSE MCQ Bank Social Science Class 10 Term 1,www.cbse.online,4.3 out of 5 stars,24,₹389.00
-Think Like a Monk: The secret of how to harness the power of positivity and be happy now,Jay Shetty,4.6 out of 5 stars,"18,260",₹292.00
-A Modern Approach To Verbal & Non-Verbal Reasoning (2 Colour Edition),R.S. Aggarwal,4.4 out of 5 stars,"8,777",₹503.00
-"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10, Mathematics (Standard) (With the largest MCQ Questions Pool for…",Oswaal Editorial Board,4.2 out of 5 stars,185,₹137.00
-"Xam Idea CBSE MCQs Chapterwise For Term I, Class 10 Mathematics, Science & Social Science (Set of 3) (With massive…",Xamidea Editorial Board,4.1 out of 5 stars,68,₹475.00
-Sapiens: A Brief History of Humankind,Yuval Noah Harari,4.7 out of 5 stars,"38,432",₹433.55
-Oswaal CBSE Sample Question Paper Class 12 English Core Book (For Term I Nov-Dec 2021 Exam),Oswaal Editorial Board,4.0 out of 5 stars,44,₹194.00
-Wings of Fire: An Autobiography of Abdul Kalam,Arun Tiwari,4.6 out of 5 stars,"9,832",₹226.00
-Colour With Crayons Book 1 for Kids Age 1 -6 Years - Drawing and Colouring Book for Early Learners,Dreamland Publications,4.2 out of 5 stars,"4,300",₹49.00
-Rich Dad Poor Dad - 20Th Anniversary Edition - Hindi,Robert T. Kiyosaki,4.5 out of 5 stars,"7,885",₹176.00
-The Theory of Everything: The Origin and Fate of the Universe,Stephen Hawking,4.6 out of 5 stars,"8,392",₹169.00
-Indian Polity For Civil Services and Other State Examinations| 6th Revised Edition,M Laxmikanth,4.1 out of 5 stars,25,₹620.00
-26 Years UPSC IAS/ IPS Prelims Topic-wise Solved Papers 1 & 2 (1995 - 2020) 11th Edition,Mrunal Patel,4.5 out of 5 stars,"5,442",₹380.00
-Concept of Physics - Part 1 & 2 2019 - 2020 Session (Set of 2 books),0,4.7 out of 5 stars,"2,020",₹646.00
-Moral Story Books for Kids (Pack of 10 Books) | 160 Total Pages | Illustrated Stories,Young Angels Publishing,4.3 out of 5 stars,"2,443",₹225.00
-"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 12, English Core (With the largest MCQ Question Pool for 2021-22…",Oswaal Editorial Board,4.4 out of 5 stars,99,₹173.00
-Indian Art and Culture for Civil Services and other Competitive Examinations,Nitin Singhania,4.6 out of 5 stars,"5,040",₹522.00
-Autobiography of a Yogi,Paramahansa Yogananda,4.6 out of 5 stars,"5,331",₹184.00
-Who Will Cry When You Die?,Robin Sharma,4.5 out of 5 stars,"12,006",₹125.00
-"Educart ICSE Semester 1 MCQ Sample Papers Books Main Subjects Bundle Class 10 - English 1 & 2, Maths, Physics, Chemistry…",Educart,4.0 out of 5 stars,107,₹743.00
-"The Silent Patient: The record-breaking, multimillion copy Sunday Times bestselling thriller and Richard & Judy book…",Alex Michaelides,4.5 out of 5 stars,"77,826",₹339.00
+The Psychology of Money,Morgan Housel,4.6 out of 5 stars,"18,818",₹277.00
+400 Days,Chetan Bhagat,4.3 out of 5 stars,859,₹156.00
+Atomic Habits: The life-changing million copy bestseller,James Clear,4.6 out of 5 stars,"26,324",₹475.00
+My First Library: Boxset of 10 Board Books for Kids,Wonder House Books,4.5 out of 5 stars,"38,119",₹349.00
+Ikigai: The Japanese secret to a long and happy life,Héctor García,4.6 out of 5 stars,"24,292",₹317.00
+Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!,Robert T. Kiyosaki,4.6 out of 5 stars,"48,335",₹331.00
+Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system,Philipp Dettmer,4.4 out of 5 stars,15,"₹2,114.00"
+The Alchemist,Paulo Coelho,4.6 out of 5 stars,"62,647",₹196.00
+World’s Greatest Books For Personal Growth & Wealth (Set of 4 Books): Perfect Motivational Gift Set,Dale Carnegie,4.5 out of 5 stars,"13,476",₹299.00
+Diary of a Wimpy Kid: Big Shot (Book 16),Jeff Kinney,4.8 out of 5 stars,110,₹424.00
+As a Man Thinketh,James Allen,4.4 out of 5 stars,"4,872",₹59.00
+Quantitative Aptitude for Competitive Examinations,R S Aggarwal,4.4 out of 5 stars,"19,531",₹450.00
+Attitude Is Everything: Change Your Attitude ... Change Your Life!,Jeff Keller,4.5 out of 5 stars,"13,671",₹142.00
+"Educart CBSE Term 1 Sample Papers Class 10 Bundle of Science, Math Standard, Social Science & English Books For 2022…",Shubham Pathak,4.3 out of 5 stars,118,₹495.00
+Word Power Made Easy,Norman Lewis,4.4 out of 5 stars,"29,496",₹151.00
+"Grandma's Bag of Stories: Collection of 20+ Illustrated short stories, traditional Indian folk tales for all ages for…",Sudha Murty,4.6 out of 5 stars,"10,090",₹223.56
+Objective NCERT at your FINGERTIPS for NEET-AIIMS - Biology,MTG Editorial Board,4.6 out of 5 stars,"5,398",₹629.00
+The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Mark Manson,4.5 out of 5 stars,"53,215",₹307.00
+Man's Search For Meaning: The classic tribute to hope from the Holocaust,Viktor E Frankl,4.5 out of 5 stars,"35,250",₹193.00
+"My First Mythology Tale (Illustrated) (Set of 5 Books) - Mahabharata, Krishna, Hanuman, Ganesha, Ramayana - Story Book…",Maple Press,4.4 out of 5 stars,"1,957",₹149.00
+The Power of Your Subconscious Mind,Joseph Murphy,4.5 out of 5 stars,"42,545",₹125.00
+Oxford Student Atlas for India - Third Edition,Oxford University Press,4.6 out of 5 stars,"11,324",₹240.00
+"Educart TERM 1 MCQ Question Bank Class 10 Bundle 2022 - Maths, Science, English & SST Books (Based on New MCQs Type…",Educart,4.2 out of 5 stars,740,₹458.00
+"My Life in Full: Work, Family, and Our Future (With a special Epilogue for India)",Indra K. Nooyi,4.5 out of 5 stars,214,₹462.00
+The Power of Your Subconscious Mind,Joseph Murphy,4.5 out of 5 stars,"42,545",₹99.00
+My First Book of Pencil Control : Practice Pattern Writing (Full Color Pages): Patterns Practice book for kids (Pattern…,Wonder House Books,4.4 out of 5 stars,"11,819",₹89.00
+Indian Polity - For Civil Services and Other State Examinations | 6th Edition,M. Laxmikanth,4.6 out of 5 stars,"16,670",₹620.00
+Picture Books Collection for Early Learning (Set of 12),E C Axus,4.3 out of 5 stars,"11,455",₹220.00
+"Oswaal CBSE Sample Question Paper Class 10 (Set of 4 Books) Science, Social Science, Mathematics Standard, English (For…",Oswaal Editorial Board,4.2 out of 5 stars,118,₹688.00
+How to Win Friends and Influence People,Dale Carnegie,4.5 out of 5 stars,"55,803",₹100.00
+Best of Children’s Classics (Set of 5 Books): Perfect Gift Set for Kids,Antoine de Saint-Exupéry,4.4 out of 5 stars,"2,269",₹499.00
+CBSE MCQ Bank Science Class 10 Term 1,www.cbse.online,4.5 out of 5 stars,73,₹379.00
+Great Stories for Children,Ruskin Bond,4.5 out of 5 stars,"7,240",₹128.00
+"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10 (Set of 3 Books) Mathematics (Standard), Science, Social Science…",Oswaal Editorial Board,4.2 out of 5 stars,399,₹369.00
+The Monk Who Sold His Ferrari,Robin Sharma,4.5 out of 5 stars,"17,834",₹164.00
+The Complete Novels of Sherlock Holmes,Arthur Conan Doyle,4.5 out of 5 stars,"11,589",₹136.00
+The Intelligent Investor (English) Paperback – 2013,Benjamin Graham,4.5 out of 5 stars,"28,439",₹474.00
+The Richest Man in Babylon,George S. Clason,4.5 out of 5 stars,"22,459",₹99.00
+CBSE MCQ Bank Mathematics Class 10 Term 1,www.cbse.online,4.3 out of 5 stars,89,₹399.00
+Diamonds in the Dust: Consistent Compounding for Extraordinary Wealth Creation,Saurabh Mukherjea,4.4 out of 5 stars,393,₹297.00
+Wuthering Heights,Emily Brontë,4.5 out of 5 stars,"13,754",₹99.00
+Life's Amazing Secrets: How to Find Balance and Purpose in Your Life,Gaur Gopal Das,4.6 out of 5 stars,"11,910",₹164.00
+The Diary of a Young Girl,Anne Frank,4.6 out of 5 stars,"4,345",₹99.00
+"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10, Mathematics (Standard) (With the largest MCQ Questions Pool for…",Oswaal Editorial Board,4.2 out of 5 stars,186,₹147.00
+Very First Sight Words Sentences Level 1,Dreamland Publications,4.5 out of 5 stars,"6,890",₹110.00
+How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry,Dale Carnegie,4.4 out of 5 stars,"14,972",₹99.00
+One Arranged Murder,Chetan Bhagat,4.4 out of 5 stars,"15,218",₹152.00
+A Modern Approach To Verbal & Non-Verbal Reasoning (2 Colour Edition),R.S. Aggarwal,4.4 out of 5 stars,"8,781",₹538.00
+"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10, Science (With the largest MCQ Questions Pool for 2021-22 Exam)",Oswaal Editorial Board,4.3 out of 5 stars,221,₹147.00
+Think Like a Monk: The secret of how to harness the power of positivity and be happy now,Jay Shetty,4.6 out of 5 stars,"18,265",₹320.00
+"Educart ICSE Semester 1 MCQ Sample Papers Books Main Subjects Bundle Class 10 - English 1 & 2, Maths, Physics, Chemistry…",Educart,4.1 out of 5 stars,109,₹767.00
+Moral Story Books for Kids (Pack of 10 Books) | 160 Total Pages | Illustrated Stories,Young Angels Publishing,4.3 out of 5 stars,"2,446",₹225.00
 "Oswaal CBSE MCQs Chapterwise Question Bank For Term I & II, Class 10, English Language & Literature (With the largest…",Oswaal Editorial Board,4.2 out of 5 stars,194,₹173.00
-CBSE New Pattern English Core Class 12 for 2021-22 Exam (MCQs based book for Term 1),Srishti Agarwal,4.3 out of 5 stars,122,₹85.00
-"Brain Games for Clever Kids: Puzzles to Exercise Your Mind (Buster Brain Games, 1)",Gareth Moore,4.3 out of 5 stars,"6,212",₹199.00
-27 Years UPSC IAS/ IPS Prelims Topic-wise Solved Papers 1 & 2 (1995 - 2021) 12th Edition,Mrunal Patel,4.5 out of 5 stars,2,₹455.00
-"Chapterwise MCQs Book for ICSE Class 10 Semester I Exam 2021 : 2000+ New Pattern Questions (Hindi, English I, English II…",Oswal - Gurukul,4.1 out of 5 stars,133,₹280.00
-How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships,Leil Lowndes,4.4 out of 5 stars,"3,978",₹146.00
-"The 5 AM Club: Own Your Morning, Elevate Your Life",Robin Sharma,4.5 out of 5 stars,"15,629",₹218.00
-Think and Grow Rich,Napoleon Hill,4.5 out of 5 stars,"57,615",₹149.00
-Fundamentals of Essay and Answer Writing,Anudeep Durishetty,4.7 out of 5 stars,"1,165",₹404.00
-General Knowledge 2022,Manohar Pandey,4.3 out of 5 stars,"1,279",₹195.00
-"Chapterwise MCQs Book for ICSE Class 10 Semester I Exam 2021 : 2000+ New Pattern Questions (Physics, Chemistry, Maths…",Oswal - Gurukul,4.1 out of 5 stars,132,₹385.00
-"My First 1000 Words: Early Learning Picture Book to Learn Alphabet, Numbers, Shapes and Colours, Transport, Birds and…",Wonder House Books,4.5 out of 5 stars,"3,931",₹192.00
-Metamorphosis,Franz Kafka,4.5 out of 5 stars,"5,046",₹99.00
-The Girl Who Drank the Moon,Kelly Barnhill,4.6 out of 5 stars,"13,640",₹262.00
-Death; An Inside Story: A book for all those who shall die,Sadhguru,4.7 out of 5 stars,"7,380",₹186.00
-The Everyday Hero Manifesto,Robin Sharma,4.5 out of 5 stars,180,₹317.00
+Oswaal CBSE Sample Question Paper Class 10 Science Book (For Term I Nov-Dec 2021 Exam),Oswaal Editorial Board,4.3 out of 5 stars,49,₹158.00
+Dune: 1,Frank Herbert,4.5 out of 5 stars,"28,833",₹400.00
+Certificate Physical And Human Geography; Indian Edition,Goh Cheng Leong,4.5 out of 5 stars,"9,219",₹326.00
+CBSE MCQ Bank Social Science Class 10 Term 1,www.cbse.online,4.2 out of 5 stars,25,₹389.00
+General Knowledge,Dr. Binay Karna,4.4 out of 5 stars,"16,245",₹180.00
+Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth,Mahatma Gandhi,4.5 out of 5 stars,"4,897",₹99.00
+"Writing Practice Boxset: Pack of 4 Books (Writing Fun: Write and Practice Capital Letters, Small Letters, Patterns and…",Wonder House Books,4.3 out of 5 stars,"6,178",₹159.00
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,4.7 out of 5 stars,"38,436",₹345.00
+Brijbhoomi Books And Handicrafts® Bhagavad Gita: Yatharoop,Brijbhoomi Books And Handicrafts,4.7 out of 5 stars,"10,134",₹185.00
+CBSE New Pattern English Core Class 12 for 2021-22 Exam (MCQs based book for Term 1),Srishti Agarwal,4.3 out of 5 stars,124,₹95.00
+Arihant CBSE Term 1 Mathematics (Standard) Sample Papers Questions for Class 10 MCQ Books for 2021 (As Per CBSE Sample…,Vishal Kumar Mehta Chitra Dhingra,4.0 out of 5 stars,1,₹125.00
+Indian Art and Culture for Civil Services and other Competitive Examinations,Nitin Singhania,4.6 out of 5 stars,"5,044",₹550.00
+Arihant CBSE Term 1 Science Sample Papers Questions for Class 10 MCQ Books for 2021 (As Per CBSE Sample Papers issued on…,Anam Aarzoo Kirti Kundu,4.0 out of 5 stars,1,₹125.00
+Oswaal CBSE Sample Question Paper Class 12 English Core Book (For Term I Nov-Dec 2021 Exam),Oswaal Editorial Board,4.0 out of 5 stars,44,₹194.00
+Fundamentals of Essay and Answer Writing,Anudeep Durishetty,4.7 out of 5 stars,"1,166",₹404.00
+Animals Tales From Panchtantra: Timeless Stories for Children From Ancient India,Wonder House Books,4.6 out of 5 stars,"2,054",₹159.00
 Oswaal CBSE Sample Question Papers Class 10 English Language & Literature Book (For Term I Nov-Dec 2021 Exam),Oswaal Editorial Board,4.7 out of 5 stars,36,₹161.00
-"Environment - 8/edition, 2021",Shankar,4.0 out of 5 stars,722,₹443.00
-"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10, Social Science (With the largest MCQ Questions Pool for 2021-22…",Oswaal Editorial Board,4.2 out of 5 stars,157,₹146.00
+101 Panchatantra Stories for Children: Colourful Illustrated Stories,Om Books Editorial Team,4.5 out of 5 stars,"4,243",₹135.00
+Oswaal CBSE Sample Question Paper Class 10 Mathematics Standard Book (For Term I Nov-Dec 2021 Exam),Oswaal Editorial Board,4.5 out of 5 stars,60,₹139.00
+Wings of Fire: An Autobiography of Abdul Kalam,Arun Tiwari,4.6 out of 5 stars,"9,836",₹252.00
+Rich Dad Poor Dad - 20Th Anniversary Edition - Hindi,Robert T. Kiyosaki,4.5 out of 5 stars,"7,889",₹281.00
+"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 12, English Core (With the largest MCQ Question Pool for 2021-22…",Oswaal Editorial Board,4.5 out of 5 stars,101,₹173.00
+"Xam Idea CBSE MCQs Chapterwise For Term I, Class 10 Mathematics, Science & Social Science (Set of 3) (With massive…",Xamidea Editorial Board,4.0 out of 5 stars,70,₹475.00
+Listen to My Case! When Women Approach the Courts of Tamil Nadu,Justice K Chandru,3.8 out of 5 stars,14,₹132.00
+Who Will Cry When You Die?,Robin Sharma,4.5 out of 5 stars,"12,009",₹140.00
+The Almanack Of Naval Ravikant: A Guide to Wealth and Happiness,Eric Jorgenson,4.6 out of 5 stars,"2,264",₹213.00
+27 Years UPSC IAS/ IPS Prelims Topic-wise Solved Papers 1 & 2 (1995 - 2021) 12th Edition,Mrunal Patel,4.5 out of 5 stars,2,₹462.00
+Pride & Prejudice,Jane Austen,4.5 out of 5 stars,"23,137",₹101.00
+Indian Polity For Civil Services and Other State Examinations| 6th Revised Edition,M Laxmikanth,4.1 out of 5 stars,25,₹808.00
+The Theory of Everything: The Origin and Fate of the Universe,Stephen Hawking,4.6 out of 5 stars,"8,393",₹169.00
+"Brain Games for Clever Kids: Puzzles to Exercise Your Mind (Buster Brain Games, 1)",Gareth Moore,4.3 out of 5 stars,"6,212",₹199.00
+"Chapterwise MCQs Book for ICSE Class 10 Semester I Exam 2021 : 2000+ New Pattern Questions (Physics, Chemistry, Maths…",Oswal - Gurukul,4.0 out of 5 stars,134,₹385.00
+Autobiography of a Yogi,Paramahansa Yogananda,4.6 out of 5 stars,"5,331",₹99.00
+Coffee Can Investing: The Low Risk Road to Stupendous Wealth,Saurabh Mukherjea,4.5 out of 5 stars,"1,933",₹317.00
+"Oswaal CBSE MCQs Chapterwise For Term I & II, Class 10, Social Science (With the largest MCQ Questions Pool for 2021-22…",Oswaal Editorial Board,4.2 out of 5 stars,158,₹151.00
+Think & Grow Rich (Hindi),Napoleon Hill,4.3 out of 5 stars,"2,805",₹106.00
+How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships,Leil Lowndes,4.4 out of 5 stars,"3,978",₹207.00
+"The Magic of the Lost Temple: Illustrated, easy to read and much-loved first full length children’s fiction novel by…",Sudha Murty,4.7 out of 5 stars,"4,612",₹152.00
+"Chapterwise MCQs Book for ICSE Class 10 Semester I Exam 2021 : 2000+ New Pattern Questions (Hindi, English I, English II…",Oswal - Gurukul,4.0 out of 5 stars,134,₹280.00
+"Oswaal CBSE Sample Question Paper Class 10 (Set of 3 Books) Science, Social Science & Mathematics Standard (For Term I…",Oswaal Editorial Board,4.5 out of 5 stars,69,₹464.00
+"INDIAN ECONOMY For Civil Services, Universities and Other Examinations | 13th Edition",RAMESH SINGH,4.4 out of 5 stars,878,₹512.00
+Think and Grow Rich,Napoleon Hill,4.5 out of 5 stars,"59,182",₹149.00
+"Karma: A Yogi's Guide to Crafting Your Destiny NEW YORK TIMES, USA TODAY, and PUBLISHERS WEEKLY BESTSELLER , must-read…",Sadhguru,4.7 out of 5 stars,"5,518",₹239.00
+"The Silent Patient: The record-breaking, multimillion copy Sunday Times bestselling thriller and Richard & Judy book…",Alex Michaelides,4.5 out of 5 stars,"77,831",₹297.00
+Why I am an Atheist and Other Works,Bhagat Singh,4.6 out of 5 stars,"3,183",₹96.25
+An Incomplete Life: The Autobiography,Vijaypat Singhania,4.0 out of 5 stars,2,₹488.00
+Oswaal CBSE Sample Question Papers Class 10 Social Science Book (For Term I Nov-Dec 2021 Exam),Oswaal Editorial Board,4.9 out of 5 stars,26,₹163.00
